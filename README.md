@@ -1,6 +1,8 @@
 ### Colab File Downloader and Google Drive Saver
 
-<a href=\"https://colab.research.google.com/github/istiakm30/File-Downloader/blob/main/Downloader.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/istiakm30/File-Downloader/blob/main/Downloader.ipynb)
+
 
 This repository contains a Google Colab notebook that facilitates the downloading of files directly into the Colab environment and saving them to a specified Google Drive folder.
 
