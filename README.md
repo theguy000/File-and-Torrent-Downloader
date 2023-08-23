@@ -1,4 +1,4 @@
-### Colab File Downloader and Google Drive Saver
+### Colab File and Torrent Downloader with Google Drive Saver
 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/istiakm30/File-Downloader/blob/main/Downloader.ipynb)
